@@ -1,0 +1,11 @@
+{
+    "name": "Comedy Corner",
+    "version": "1.0.0",
+    "description":"First api project!",
+    "manifest_version":3,
+    "author":"Ryan Burton",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Codejokes! :D"
+    }
+}

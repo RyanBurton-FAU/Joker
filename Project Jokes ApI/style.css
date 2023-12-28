@@ -1,0 +1,12 @@
+*
+
+body {
+    /* background-image: url(https://i.imgflip.com/5hi9mf.jpg?a469104); */
+    background-size: 700px;
+    background-position: center;
+}
+
+div{
+    height: 200px;
+    width: 400px;
+}
